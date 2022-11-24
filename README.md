@@ -1,6 +1,8 @@
   # My very first website
   
-  Welcome !
+  I am pretty pleased with this: [my-first-website-revised](https://soliv1.github.io/my-first-website-revised/index.html)
+  
+  Welcome to my very first website!
   
  ###This website showcases the latest technologies available to devlopers.  
  
